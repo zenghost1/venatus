@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1039257178252",
+    "project_id": "venatus-e17fb",
+    "storage_bucket": "venatus-e17fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039257178252:android:b1ba7ea9544e8c2f3a6ba9",
+        "android_client_info": {
+          "package_name": "com.example.venatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039257178252-vfn9fq9180d1hgkabk89ab96tqj07u5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.venatus",
+            "certificate_hash": "84bdba70d20af48ee91390d02a6891f9cf740029"
+          }
+        },
+        {
+          "client_id": "1039257178252-u15e4gco0an0bqo7ttri39ggjl8bsqnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgcSIqMQhrSp4p5VZ-WZLv5ZAflsrk830"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039257178252-u15e4gco0an0bqo7ttri39ggjl8bsqnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
